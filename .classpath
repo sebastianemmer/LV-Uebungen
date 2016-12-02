@@ -3,6 +3,7 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="src" path="class_coding"/>
 	<classpathentry kind="src" path="kontoverwaltung"/>
+	<classpathentry kind="src" path="uebung_bank_gehaltskonto"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
