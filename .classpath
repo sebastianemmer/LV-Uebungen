@@ -4,6 +4,8 @@
 	<classpathentry kind="src" path="class_coding"/>
 	<classpathentry kind="src" path="kontoverwaltung"/>
 	<classpathentry kind="src" path="uebung_bank_gehaltskonto"/>
+	<classpathentry kind="src" path="bruch_coding"/>
+	<classpathentry kind="src" path="bsp_charArray"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
