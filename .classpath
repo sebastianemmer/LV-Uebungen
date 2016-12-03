@@ -6,6 +6,8 @@
 	<classpathentry kind="src" path="uebung_bank_gehaltskonto"/>
 	<classpathentry kind="src" path="bruch_coding"/>
 	<classpathentry kind="src" path="bsp_charArray"/>
+	<classpathentry kind="src" path="struktur_uebung_&amp;_bsp"/>
+	<classpathentry kind="src" path="bsp_social-networks"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
