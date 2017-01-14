@@ -10,6 +10,7 @@
 	<classpathentry kind="src" path="bsp_social-networks"/>
 	<classpathentry kind="src" path="ue_bsp_OOP_bsp1_grossbuchst"/>
 	<classpathentry kind="src" path="rekursion"/>
+	<classpathentry kind="src" path="komposition_vererbung"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

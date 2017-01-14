@@ -1,3 +1,4 @@
+import uebung.Person;
 
 public class class_ausgabe {
 
